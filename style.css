@@ -1,0 +1,53 @@
+
+body{
+    
+
+}
+.container{
+    padding: 10px;
+    margin: 10px;
+    background-color:#FFF1D5;
+    
+    color:rgba(0, 0, 0, 0.671);
+      font-family: "Lora", serif;
+      font-optical-sizing: auto;
+      font-weight: weight;
+      font-style: normal;
+    
+}
+img{
+    height: 300px;
+    float: right;
+    border-radius:30%;
+}
+
+h1{
+    font-family: "Lora", serif;
+      font-optical-sizing: auto;
+      font-weight: weight;
+      font-style: normal;
+      text-align: center;
+}
+
+div{
+    border-radius: 30px;
+    
+}
+
+.contgrid{
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    row-gap: 50px;
+    column-gap: 50px;
+    
+}
+
+.col{
+    background-color: #EAEAEA;
+}
+
+
+
+
